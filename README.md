@@ -13,7 +13,7 @@
 <b>Ссылка на demo страницу проекта.</b>
 <ul>
  <li><a href='https://beghemot4.github.io/index.html'>Profile details</a></li> 
-  <li><a href='https://beghemot4.github.io/гш.html'>UI-kit</a></li> 
+  <li><a href='https://beghemot4.github.io/ui.html'>UI-kit</a></li> 
  </ul>
 
 <br>
